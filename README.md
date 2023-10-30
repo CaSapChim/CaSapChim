@@ -22,6 +22,7 @@
     />
     <img
         width="396"
+        height="220"
         src="https://github-readme-streak-stats.herokuapp.com/?user=CaSapChim&theme=radical&hide_border=false"
     />
 </div>
