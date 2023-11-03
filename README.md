@@ -22,8 +22,7 @@
     />
     <img
         width="396"
-        height="220"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=CaSapChim&theme=radical&hide_border=false"
+        src="https://github-readme-stats.vercel.app/api?username=CaSapChim&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=a6e3a1"
     />
 </div>
 <br>
