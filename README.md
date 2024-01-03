@@ -29,6 +29,6 @@
 
 <h1 align="center">Language and tools</h1>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,md,html,css,sass,js,nodejs,git,github,mongodb,stackoverflow,vscode&theme=dark" alt="Languages and Tools" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,md,html,css,js,ts,sass,tailwind,react,nodejs,git,github,mongodb,stackoverflow,vscode&theme=dark" alt="Languages and Tools" />
 
 </p>
