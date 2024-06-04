@@ -1,6 +1,6 @@
 #
 <img
-    src="https://cdn.discordapp.com/attachments/1080138430756966450/1168416287731490867/banner.png?ex=6551af77&is=653f3a77&hm=cb98de07b2f37f0a16f3b0bba67b56f2c7ed985889786e0d90ef4567d0e8f6ba&"
+    src="https://media.discordapp.net/attachments/1080138474256080906/1247413217639141376/17_tuoi__15.jpg?ex=665fef96&is=665e9e16&hm=f47631933197307392619f44bbfa7135fbcb240c3734f938b28d4271a0f87a63&=&format=webp&width=1248&height=702"
 />
 
 ![](https://komarev.com/ghpvc/?username=CaSapChim)
