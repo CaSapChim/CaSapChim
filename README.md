@@ -5,7 +5,7 @@
 <h1 align="center">Discord</h1>
 <div align="center">
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/874321270437728257?theme=dark&bg=3a5d69&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Toi%20thuong%20em%20lam.)](https://discord.com/users/1259350604526911509)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1259350604526911509?theme=dark&bg=3a5d69&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Toi%20thuong%20em%20lam.)](https://discord.com/users/1259350604526911509)
 </div>
 
 
