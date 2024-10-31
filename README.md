@@ -17,10 +17,6 @@
         width="396"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaSapChim&show_icons=true&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=a6e3a1"
     />
-    <img
-        height="220"
-        src="https://github-readme-stats.vercel.app/api?username=CaSapChim&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=a6e3a1"
-    />
 </div>
 <br>
 
